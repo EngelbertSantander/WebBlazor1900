@@ -1,0 +1,5 @@
+# Rules in this file were initially inferred by Visual Studio IntelliCode from the C:\Users\Inspiron 15 3000\Desktop\DOCUMENTOS SANTANDER\Documentos Santander\UNAH\2023\I PAC\LENGUAJE DE PROGRAMACIÓN III\III PARCIAL\Ejercicios Practicos\WebBlazor1900\Web codebase based on best match to current usage at 30/4/2023
+# You can modify the rules from these initially generated values to suit your own policies
+# You can learn more about editorconfig here: https://docs.microsoft.com/en-us/visualstudio/ide/editorconfig-code-style-settings-reference
+[*.cs]
+
